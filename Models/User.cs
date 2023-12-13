@@ -8,5 +8,6 @@ namespace Bai_Tap_CNPM.Models
 {
     internal class User
     {
+        public int UserName { get; set; }
     }
 }
